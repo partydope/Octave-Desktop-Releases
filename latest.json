@@ -1,23 +1,23 @@
 {
-    "version":  "0.2.0",
-    "notes":  "Octave Desktop 0.2.0",
-    "pub_date":  "2026-11-01T01:32:42.408Z",
-    "platforms":  {
-                      "windows-x86_64-nsis":  {
-                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdktsVm0xOGoxdDdMSGpFS3o1Q3RVaDZweU9qQVhlLzdlVitGTHJGaWlBa0d4SXhXcU9GbUQxdFgxNERvUnREV0pjZVJiVmpZRnlSQm9LVTRMY1I2V25iU0NJUWpOaVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDk1ODAwCWZpbGU6T2N0YXZlIERlc2t0b3BfMC4yLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4wCkxsYk9HSENRR2JtcHlZSC9rOWhrbUU5M3pIMUtKRlpJRTg3NGRtWnY3dDF1eGFVSGwxTUtBZ0dEdU5NVExvZEs0dUlrNVJBV3puMm1EMVdPSWlja0RBPT0K",
-                                                  "url":  "https://github.com/partydope/Octave-Desktop-Releases/releases/download/v0.2.0/Octave.Desktop_0.2.0_x64-setup.exe"
-                                              },
-                      "linux-x86_64-deb":  {
-                                               "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdktsVm0xOGoxdCtrZHd4Y1BBMGE2bVRBb1FQa2xOUU5NMWltSFF1NGJxQ3l6MjNiWjVWVEh3aGE3ZncxR2VtVEFMeWR3SnlqUjYvanovQk1nLzZUcm9vUWViY0owSVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDk2NzIxCWZpbGU6T2N0YXZlIERlc2t0b3BfMC4yLjBfYW1kNjQuZGViCXZlcnNpb246MC4yLjAKTWZHMlJUNzhaRFYzdHFEZlphbitZakJKVkRjWDZHRnpyZjA2WG9CV0JPL3ludUMvdWpzWTY3c0hQcVJIb0EvQ0ZFNTQydlBtMnlRZDNVRXJyVTJyRHc9PQo=",
-                                               "url":  "https://github.com/partydope/Octave-Desktop-Releases/releases/download/v0.2.0/Octave.Desktop_0.2.0_amd64.deb"
-                                           },
-                      "linux-x86_64-rpm":  {
-                                               "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdktsVm0xOGoxdHdueElwQ2d3SDVVK1pQemd6L3BDYUtFQmw0ZDRmaTRyQkE1dTNBZEo2ai85cENEbFYxeGpBMUZEdi85R2NDL0lTVDdXZGFYanJnWXJNUnJQYVNjMWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDk2NzIxCWZpbGU6T2N0YXZlIERlc2t0b3AtMC4yLjAtMS54ODZfNjQucnBtCXZlcnNpb246MC4yLjAKNVUwZklnWGZLdkVnZDlPVjB5aHBSME96a3MxeUtQa1BjUFNPZEkzMzJVdmJGdldudHczSkR6N0d1TW1SYXVCZWZoVGt5OXlvalc4S0FWT3Vzam9MQmc9PQo=",
-                                               "url":  "https://github.com/partydope/Octave-Desktop-Releases/releases/download/v0.2.0/Octave.Desktop-0.2.0-1.x86_64.rpm"
-                                           },
-                      "linux-x86_64-appimage":  {
-                                                    "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdktsVm0xOGoxdDc4N2Y0V3M3YThSZXIrV2x4T1ZnUlRhanczaHhVZWNNRHBFV0pacUdiUk0zS3Q1WVFramtkUWQ2UHJhTXRpdUo2eWNtaU1iNS91SkZDaFJ4MXgyUlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDk2NzIyCWZpbGU6T2N0YXZlIERlc2t0b3BfMC4yLjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjIuMAozNVFWZVdGMDZ0UC9ZZVpaR3hBbGVFSkdOZTR6a1Qzd1BtMVRoWDFuK242YUJhQzZQaTFMTzJldkZMU3pjOXliOXN3bmxPSjZTaHRDcGRYNEZsaDBBdz09Cg==",
-                                                    "url":  "https://github.com/partydope/Octave-Desktop-Releases/releases/download/v0.2.0/Octave.Desktop_0.2.0_amd64.AppImage"
-                                                }
-                  }
+  "version": "0.2.1",
+  "notes": "Octave Desktop 0.2.1",
+  "pub_date": "2026-11-03T20:45:21.160Z",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdktsVm0xOGoxdDdDeUR4eTRBY016Y0hhZmZBaXVPS0loT2ZzNkZiekZOZU1UL080NWsxaGdSYy81YjN2Rk9GaFVOS0Q1dlZ2NmtXZW1IaC9GOTJ2YnZhQUZWZVN6VXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM4NDAzCWZpbGU6T2N0YXZlIERlc2t0b3BfMC4yLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4xCjllTFAzT1dIMVVvTlVHaWFIQ0ZtcDBNR3hMWUNVazJPNGQ5ODc2cGpQR3RUUWxkTFFuWGlIQ3pnS2gwV0dxaGs0dEl1ZTBUb0d4Szc2MXZzZDI2ckNBPT0K",
+      "url": "https://github.com/partydope/Octave-Desktop-Releases/releases/download/v0.2.1/Octave.Desktop_0.2.1_x64-setup.exe"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdktsVm0xOGoxdDgwWWVUdmR4SHBCb1RyWGlaVDh5ZGZqZ0E0SEluQlgya2wwNWtrSXczb2RjenZqMzI0cUhQcUl0REt5K1ljdXp1K2xNYzZKY0ZZZDU4U2o2QWh2SHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM4NjY5CWZpbGU6T2N0YXZlIERlc2t0b3BfMC4yLjFfYW1kNjQuZGViCXZlcnNpb246MC4yLjEKNXBnNXJJQkJUU2JBTjg5UXo5RTZQckp6WkVGdmxCUVFXOFA5UTduT3RkeHJoM0JvMkdtems4YkRBL2ZId3V5cmdXT3I3Nm83dDZ2Z29ET29JN3R1REE9PQo=",
+      "url": "https://github.com/partydope/Octave-Desktop-Releases/releases/download/v0.2.1/Octave.Desktop_0.2.1_amd64.deb"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdktsVm0xOGoxdDIrNDErNS9XUC9kN2ZiVXZuRXB5RlJGLy84VFVNcVBLU1plaEJDNFpqcTljclBtc2NESUVhZFpBNVpyZ0Q2Q3NqUmQzZXZCenFsSGRBMStSUFhXUWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM4NjcwCWZpbGU6T2N0YXZlIERlc2t0b3AtMC4yLjEtMS54ODZfNjQucnBtCXZlcnNpb246MC4yLjEKbUZDWW8xQldENFFhNXpHVkFvR1ROcUF4SzNpMkN1am9wTTZHalM4TVpoTjA5VHpraU5md2UzSGdEWk9hNkFNSHFCZzVBazNWVE5aV0R3b1VTRHFDQ2c9PQo=",
+      "url": "https://github.com/partydope/Octave-Desktop-Releases/releases/download/v0.2.1/Octave.Desktop-0.2.1-1.x86_64.rpm"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdktsVm0xOGoxdDRhUjh1TnhtWHhLYzYvRW1xVWhXdW5ZSTROMEtSVkw5YldmWFZKZXJPWmE3YThZajFkTXVtcDdWaVpGenZIcUQ5NUc1T3NweXNCanBNZWF4QmxCZWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM4NjcxCWZpbGU6T2N0YXZlIERlc2t0b3BfMC4yLjFfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjIuMQpzZVo5MkRnLzIvdnZHTDVuUlY2RUpDNzZrT0lnVlZHSjI3S0tkV0svcVlJdWYwaDlpWjQwN2RQM08vWlF0VWU5cGZVQmgza2JDam1CcWQvYnRKb3ZCdz09Cg==",
+      "url": "https://github.com/partydope/Octave-Desktop-Releases/releases/download/v0.2.1/Octave.Desktop_0.2.1_amd64.AppImage"
+    }
+  }
 }
